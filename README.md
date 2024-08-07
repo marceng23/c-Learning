@@ -1,2 +1,2 @@
 # c-Learning
-learning c++ just putting it on git
+learning c++ just putting it on git, idk tho
